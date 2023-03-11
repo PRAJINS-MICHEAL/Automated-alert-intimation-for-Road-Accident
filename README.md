@@ -34,7 +34,7 @@ The goal of this project is to develop a system that can detect road accidents u
   
   Run the following files accordingly....<br>
   
-  1. <code>model.ipynb</code> (which will create two more files named or two important files model.json and model_weights.h5)
+  1. <code>model.ipynb</code> (which will create two more files named or two important files <code>model.json</code> and <code>model_weights.h5</code>)
   2. <code>detection.py</code>
   3. <code>email_intimation.py</code>
   4. <code>sound_intimation.py</code>
