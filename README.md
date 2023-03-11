@@ -23,7 +23,7 @@ The goal of this project is to develop a system that can detect road accidents u
 <h3>REQUISITES</h3><br>
   
   1. This project uses Python 3 version .<br>
-  2. data: Kaggle dataset on Accident Detection from CCTV footage.<br>
+  2. data: Kaggle dataset on <a href="https://www.kaggle.com/code/mrcruise/accident-classification/data">Accident Detection from CCTV footage.</a><br>
   3. This project requires camera for execution if not input video is given , make changes in code to make input.mp4 as input video (code given in command      line , make changes accordingly) <br>
   4. This project runs with the help of Python , Machine learning , Deep learning , Computer Vision , etc.<br>
   5. To install Pakages required for this project - <mark>pip install -r packages.txt</mark> - 
