@@ -1,7 +1,7 @@
 # Automated-alert-intimation-for-Road-Accident
 Road accident detection using deep learning and automated email and buzzer alert system . 
 
-**PROBLEM STATEMENT**
+**PROBLEM STATEMENT**<BR>
 India has one of the highest rates of road accidents in the world, with an average of more than 400 deaths per day. According to the Ministry of Road Transport and Highways, there were a total of 4,37,396 road accidents in India in 2019, resulting in 1,54,732 deaths and 4,39,262 injuries.
 
 The main causes of road accidents in India include:
