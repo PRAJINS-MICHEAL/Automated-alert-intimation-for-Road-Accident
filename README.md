@@ -26,7 +26,7 @@ The goal of this project is to develop a system that can detect road accidents u
   2. data: Kaggle dataset on Accident Detection from CCTV footage.<br>
   3. This project requires camera for execution if not input video is given , make changes in code to make input.mp4 as input video (code given in command      line , make changes accordingly) <br>
   4. This project runs with the help of Python , Machine learning , Deep learning , Computer Vision , etc.<br>
-  5. To install Pakages required for this project - <mark style="background-color:lightgrey>pip install -r packages.txt</mark> - 
+  5. To install Pakages required for this project - <mark>pip install -r packages.txt</mark> - 
 
 
 
@@ -34,12 +34,12 @@ The goal of this project is to develop a system that can detect road accidents u
   
   Run the following files accordingly....<br>
   
-  1. <mark style="background-color:lightgrey>model.ipynb</mark> (which will create two more files named or two important files model.json and model_weights.h5)
-  2. <mark style="background-color:lightgrey>detection.py</mark>
-  3. <mark style="background-color:lightgrey>email_intimation.py</mark>
-  4. <mark style="background-color:lightgrey>sound_intimation.py</mark>
-  5. <mark style="background-color:lightgrey>camera.py</mark>
-  6. <mark style="background-color:lightgrey>main.py</mark> (execution of the project)<br>
+  1. <mark>model.ipynb</mark> (which will create two more files named or two important files model.json and model_weights.h5)
+  2. <mark>detection.py</mark>
+  3. <mark>email_intimation.py</mark>
+  4. <mark>sound_intimation.py</mark>
+  5. <mark>camera.py</mark>
+  6. <mark>main.py</mark> (execution of the project)<br>
   
   Follow the given flow accordingly.....<br>
   Some of the instructions are also given in the command line . Kindly follow it .........
