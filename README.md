@@ -26,7 +26,7 @@ The goal of this project is to develop a system that can detect road accidents u
   2. data: Kaggle dataset on <a href="https://www.kaggle.com/code/mrcruise/accident-classification/data">Accident Detection from CCTV footage.</a><br>
   3. This project requires camera for execution if not input video is given , make changes in code to make input.mp4 as input video (code given in command      line , make changes accordingly) <br>
   4. This project runs with the help of Python , Machine learning , Deep learning , Computer Vision , etc.<br>
-  5. To install Pakages required for this project - <mark>pip install -r packages.txt</mark> .
+  5. To install Pakages required for this project - <code>pip install -r packages.txt</code> .
 
 
 
@@ -35,11 +35,11 @@ The goal of this project is to develop a system that can detect road accidents u
   Run the following files accordingly....<br>
   
   1. <code>model.ipynb</code> (which will create two more files named or two important files model.json and model_weights.h5)
-  2. <mark>detection.py</mark>
-  3. <mark>email_intimation.py</mark>
-  4. <mark>sound_intimation.py</mark>
-  5. <mark>camera.py</mark>
-  6. <mark>main.py</mark> (execution of the project)<br>
+  2. <code>detection.py</code>
+  3. <code>email_intimation.py</code>
+  4. <code>sound_intimation.py</code>
+  5. <code>camera.py</code>
+  6. <code>main.py</code> (execution of the project)<br>
   
   Follow the given flow accordingly.....<br>
   Some of the instructions are also given in the command line . Kindly follow it .........
