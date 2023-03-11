@@ -20,7 +20,7 @@ The majority of road accidents in India involve two-wheelers, followed by cars, 
 The goal of this project is to develop a system that can detect road accidents using computer vision techniques. The system will analyze live video feeds from CCTV cameras installed on roads and highways and identify any accidents that occur.The system should be able to detect various types of accidents, including collisions between two or more vehicles, single-vehicle accidents. It should also be able to distinguish between minor accidents and more serious ones, such as those that result in injuries or fatalities.The system should be able to operate in real-time and alert emergency services as soon as an accident is detected. The system should also be able to provide information about the location and severity of the accident to aid emergency services in their response.The system should be designed to minimize false positives and false negatives, ensuring that it only alerts emergency services when an accident has actually occurred. The system should also be scalable, allowing for the addition of more cameras and the processing of larger amounts of video data over time.The project will require expertise in computer vision, machine learning, and real-time data processing. The system should be developed with a focus on accuracy, reliability, and speed, to ensure that it can save lives and prevent injuries on the road.
   
 
-<h3>REQUISITES</h3>
+<h3>REQUISITES</h3><br>
   
   1. This project uses Python 3 version .<br>
   2. data: Kaggle dataset on Accident Detection from CCTV footage.<br>
@@ -30,7 +30,8 @@ The goal of this project is to develop a system that can detect road accidents u
 
 
 
-  <h3>FLOW TO RUN THE PROJECT<BR></h3>
+  <h3>FLOW TO RUN THE PROJECT<BR></h3><br>
+   <br>
   
   Run the following files accordingly....<br>
   
