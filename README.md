@@ -31,7 +31,6 @@ The goal of this project is to develop a system that can detect road accidents u
 
 
   <h3>FLOW TO RUN THE PROJECT<BR></h3><br>
-   <br>
   
   Run the following files accordingly....<br>
   
