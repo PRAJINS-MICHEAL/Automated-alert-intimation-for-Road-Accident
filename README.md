@@ -33,6 +33,8 @@ The goal of this project is to develop a system that can detect road accidents u
   <h3>FLOW TO RUN THE PROJECT<BR></h3><br>
   
   Run the following files accordingly....<br>
+   
+  First download the dataset and keep it among the given files . <br> 
   
   1. <code>model.ipynb</code> (which will create two more files named or two important files <code>model.json</code> and <code>model_weights.h5</code>)
   2. <code>detection.py</code>
