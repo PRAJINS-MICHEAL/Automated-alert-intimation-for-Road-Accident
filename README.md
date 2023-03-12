@@ -45,3 +45,5 @@ The goal of this project is to develop a system that can detect road accidents u
   
   Follow the given flow accordingly.....<br>
   Some of the instructions are also given in the command line . Kindly follow it .........
+   
+   <h3>CONTACT</H3> -<a href="linkedin.com/in/prajins-micheal-166b45224"> Linkedin </a>
